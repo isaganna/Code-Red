@@ -36,7 +36,7 @@ public class SwitchCase {
                     break;
                 default:
                     System.out.println("I DON'T KNOW");
-                    break;
+                    break;///stop
             }
         }
 
