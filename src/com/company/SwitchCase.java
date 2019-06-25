@@ -33,7 +33,7 @@ public class SwitchCase {
                     break;
                 case 2:
                     System.out.println("TWO");
-                    break;
+                    break;//change
                 default:
                     System.out.println("I DON'T KNOW");
                     break;///stop
