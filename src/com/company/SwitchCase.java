@@ -30,7 +30,7 @@ public class SwitchCase {
             switch (Number) {
                 case 1:
                     System.out.println("ONE");
-                    break;//again
+                    break;
                 case 2:
                     System.out.println("TWO");
                     break;//change
